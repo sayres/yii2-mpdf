@@ -13,9 +13,6 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {
-        "kartik-v/mpdf": "*"
-    },
     "autoload": {
         "psr-4": {
             "kartik\\mpdf\\": ""
